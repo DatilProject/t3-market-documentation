@@ -15,7 +15,7 @@ Here you'll find all the documents related to t3-market project.
 |----|-----------|----|------|------------|
 |Chat about 15-06-2021-metting-02|Set time to meet|PNG|14 de junio de 2021|https://cutt.ly/1ms7J35 |
 |Chat about 28-06-2021-metting-3|Set time to meet|PNG|27 de junio de 2021|https://cutt.ly/Mms7Cp0 |
-|How to use the datil brand|Mail about the use of Satil brand|PNG|15 de junio de 2021|https://cutt.ly/qms7Nld | 
+|How to use the Datil brand|Mail about the use of Datil brand|PNG|15 de junio de 2021|https://cutt.ly/qms7Nld | 
 |Material about how to make good UI|Book about good UI|PNG|15 de junio de 2021| https://cutt.ly/5ms71wp| 
 |Tecnologies|Tecnologies of Datil Platform|PNG|05 de junio de 2021| https://cutt.ly/nms72Ky| 
 <br>

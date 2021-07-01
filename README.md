@@ -1,9 +1,26 @@
 # Documentation
 Here you'll find all the documents related to t3-market project.
 
-## Meetings
-|Date|Minute|Video|
-|------|------------|-----|
-|05 de junio de 2021|https://bit.ly/3ju5bJ7 | https://bit.ly/3y323rE |
-|15 de junio de 2021|https://bit.ly/3AaSCs3 | https://bit.ly/35YAp2R |
-|28 de junio de 2021|https://bit.ly/3jsWJcT | https://bit.ly/3hjUS7F |
+## Meetings Folder
+|Name|Description|type|Date|Minute|Video|
+|----|-----------|----|------|------------|-----|
+|05-06-2021-meeting01|Update|PDF|05 de junio de 2021|https://bit.ly/3ju5bJ7 | https://bit.ly/3y323rE |
+|15-06-2021-meeting02|High-fidelity prototype validation|PDF|15 de junio de 2021|https://bit.ly/3AaSCs3 | https://bit.ly/35YAp2R |
+|28-06-2021-meeting03|Sprint 01|PDF|28 de junio de 2021|https://bit.ly/3jsWJcT | https://bit.ly/3hjUS7F |
+|08-06 workshop|Workshop about clojure|PNG|08 de junio de 2021| | |
+<br>
+
+## Mails Folder
+|Name|Description|type|Date|Minute|
+|----|-----------|----|------|------------|
+|Chat about 15-06-2021-metting-02|Set time to meet|PNG|14 de junio de 2021|https://bit.ly/3ju5bJ7 |
+|Chat about 06-06-2021-metting-3|Set time to meet|PNG|05 de junio de 2021|https://bit.ly/3AaSCs3 |
+|How to use the datil brand|Mail about the use of Satil brand|PNG|15 de junio de 2021|https://bit.ly/3jsWJcT | 
+|Material about how to make good UI|Book about good UI|PNG|15 de junio de 2021| | 
+|Tecnologies|Tecnologies of Datil Platform|PNG|05 de junio de 2021| | 
+<br>
+
+## Guides Folder
+|Name|Description|type|Minute|
+|----|-----------|----|------|
+|System Deployment Guide|Guide to deploy to production enviroment|PDF|https://bit.ly/3ju5bJ7 |
